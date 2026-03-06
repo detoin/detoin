@@ -8,11 +8,12 @@
     I am a Backend Developer <br>
     <br><img src="https://count.getloli.com/get/@:vante-dev?theme=asoul">
   </samp>
-</p>
 
-<a href="https://discord.com/users/982578711415099402" align="center">
-        <img src="https://lanyard-profile-readme.vercel.app/api/982578711415099402?idleMessage=%22May%20The%20Code%20Be%20With%20you%22&borderRadius=25px"/>
+
+<a href="https://discord.com/users/982578711415099402">
+        <img src="https://lanyard-profile-readme.vercel.app/api/982578711415099402?idleMessage=%22May%20The%20Code%20Be%20With%20you%22&borderRadius=25px" />
     </a>
+    </p>
 <h2>🛠 Skills</h2>
 <p>
 
@@ -64,6 +65,7 @@
 </a>
 
 </p>
+
 
 
 
