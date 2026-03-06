@@ -8,6 +8,8 @@
     I am a Backend Developer <br>
     <br><img src="https://count.getloli.com/get/@:vante-dev?theme=asoul">
   </samp>
+  <br>
+  <br>
 
 
 <a href="https://discord.com/users/982578711415099402">
@@ -65,6 +67,7 @@
 </a>
 
 </p>
+
 
 
 
