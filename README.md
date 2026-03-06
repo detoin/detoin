@@ -10,14 +10,9 @@
   </samp>
 </p>
 
-<a href="https://github.com/Kanto-dev" target="_blank">
-<img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Kanto-dev&count_private=true&theme=radical" />
-</a>
-
-
-
-<p>A passionate backend developer</p>
-
+<a href="https://discord.com/users/982578711415099402">
+        <img src="https://lanyard-profile-readme.vercel.app/api/982578711415099402?idleMessage=%22May%20The%20Code%20Be%20With%20you%22&borderRadius=25px"/>
+    </a>
 <h2>🛠 Skills</h2>
 <p>
 
@@ -69,4 +64,5 @@
 </a>
 
 </p>
+
 
