@@ -13,7 +13,7 @@
 
 
 <a href="https://discord.com/users/982578711415099402">
-        <img src="https://lanyard-profile-readme.vercel.app/api/982578711415099402?idleMessage=%22May%20The%20Code%20Be%20With%20you%22&borderRadius=25px" />
+        <img src="https://lanyard-profile-readme.vercel.app/api/982578711415099402?idleMessage=%22Failures%20Are%20Codes%20Codes%20Are%20Failures%22&borderRadius=25px" />
     </a>
     </p>
 <h2>🛠 Skills</h2>
@@ -67,6 +67,7 @@
 </a>
 
 </p>
+
 
 
 
