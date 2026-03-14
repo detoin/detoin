@@ -13,7 +13,7 @@
 
 
 <a href="https://discord.com/users/982578711415099402">
-        <img src="[![Discord Presence](https://lanyard.cnrad.dev/api/982578711415099402?borderRadius=10px&idleMessage=Talk%20is%20cheap.%20Show%20me%20the%20code.&theme=dark&bg=000000&showDisplayName=false&hideTimestamp=false&hideProfile=false&hideActivity=false&hideSpotify=false)](https://discord.com/users/982578711415099402)" />
+        <img src="https://lanyard.cnrad.dev/api/982578711415099402?idleMessage=Talk%20is%20cheap.%20Show%20me%20the%20code&bg=000000&theme=dark" />
     </a>
     </p>
 <h2>🛠 Skills</h2>
