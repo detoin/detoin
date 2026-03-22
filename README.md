@@ -6,7 +6,7 @@
   <samp>
     Hy there, I'm Ferb <br>
     I am a Backend Developer, who loves to fiddle with technology. <br>
-    <br><img src="https://count.getloli.com/get/@:vante-dev?theme=asoul">
+    <br><img src="https://count.getloli.com/@kanto-dev?theme=booru-helltaker">
   </samp>
   <br>
   <br>
