@@ -1,7 +1,5 @@
 ```coffeescript 
->>> readme = github.User(id=53050011).readme
-<richformat.Markdown object at 0x4815162342>
->>> readme.show()
+sudo sysctl -w kernel.kptr_restrict=2 && sudo sysctl -w kernel.perf_event_paranoid=3 && echo 3 | sudo tee /proc/sys/vm/drop_caches   
 ```
 
 <br>
