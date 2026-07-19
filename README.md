@@ -43,12 +43,10 @@
 
 <img src="./deetoin.png" align="right" width="280">
 
-I am a Intermediate Developer tapping into the complex world of computers, networks and hardware.
-I have been writing code since i was 9 years old.
+I am a Intermediate Developer writing code since I was 9 years old, Currently tapping into the complex world of computers, networks and hardware.
 
-I enjoy learning new things to become a better developer, always improving my 
-code and my workflow. I believe in [Open-source](https://en.wikipedia.org/wiki/Open_source) 
-and use Omarchy as my current operating system.
+
+I prioritize privacy over convenience, hardening my devices to find the thin line between security and usability without sacrificing my digital minimalism. I use ARCH, btw.
 
 
 Know more about myself by taking a look over my [repositories](https://github.com/detoin?tab=repositories) and 
