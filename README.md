@@ -1,50 +1,61 @@
+```coffeescript 
+>>> readme = github.User(id=53050011).readme
+<richformat.Markdown object at 0x4815162342>
+>>> readme.show()
+```
 
-
+<br>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
- <br><br>
-  <samp>
-    Hy there, I'm lestcre <br>
-    I am a Backend Developer, who loves to fiddle with technology. <br>
-    <br><img src="https://count.getloli.com/@kanto-dev?theme=booru-helltaker">
-  </samp>
-  <br>
-  <br>
+
+<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//nix.svg" height="22px"/>
+<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//c.svg" height="22px"/>
+<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//makefile.svg" height="22px"/>
+<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//sqlite.svg" height="22px"/>
+<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//python.svg" height="22px"/>
+<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//html.svg" height="22px"/>
+<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//css_dark.svg" height="22px"/>
+<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//scss.svg" height="22px"/>
+<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//stylus.svg" height="22px"/>
+<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//pug.svg" height="22px"/>
+<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//js.svg" height="22px"/>
+<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//php.svg" height="22px"/>
+<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//vue.svg" height="22px"/>
+<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//flask.svg" height="22px"/>
+<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//jinja.svg" height="22px"/>
+<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//htaccess.svg" height="22px"/>
+<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//figma.svg" height="22px"/>
+<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//codecov.svg" height="22px"/>
+<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//nuxt.svg" height="22px"/>
+<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//yarn.svg" height="22px"/>
+<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//lighthouse.svg" height="22px"/>
+<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//editorconfig.svg" height="22px"/>
+<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//git.svg" height="22px"/>
+<img src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//gnu.svg" height="22px"/>
 
 
-<a href="https://discord.com/users/982578711415099402">
-        <img src="https://lanyard.cnrad.dev/api/982578711415099402?idleMessage=Talk%20is%20cheap.%20Show%20me%20the%20code&bg=000000&theme=dark" />
-    </a>
-    </p>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="40" alt="discordjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="40" alt="insomnia logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-</div>
-</a>
+<br>
+
+
 
 </p>
 
+#
+
+<img src="./deetoin.png" align="right" width="280">
+
+I am a Intermediate Developer tapping into the complex world of computers, networks and hardware.
+I have been writing code since i was 9 years old.
+
+I enjoy learning new things to become a better developer, always improving my 
+code and my workflow. I believe in [Open-source](https://en.wikipedia.org/wiki/Open_source) 
+and use Omarchy as my current operating system.
 
 
+Know more about myself by taking a look over my [repositories](https://github.com/detoin?tab=repositories) and 
+projects.
 
+# <!-- Small line break, looking better than <hr/> -->
+
+<br>
 
 
